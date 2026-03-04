@@ -7,3 +7,4 @@ def fetch():
 
 t = fetch()
 print(t)
+print(t)
